@@ -1,0 +1,3 @@
+Experience can be seen on the following link: https://nrimac.github.io/IVE-Excercise-2
+
+Tested on Meta Quest 3 VR equipment; also works on browser using WebXR console extension...
